@@ -1,0 +1,48 @@
+
+.products{
+  background-color: rgb(255, 255, 255);
+
+}
+.product{
+  background-color: rgb(255, 255, 255);
+  width: 20%;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  float: left;
+  
+}
+
+
+.clear{
+  clear: both;
+}
+
+.SERVICE{
+
+  text-align: center;
+}
+.icon1{
+  color: aliceblue;
+font-size: 230%;
+background-color: rgb(255, 208, 67);
+display: inline-block;
+width: 65px;
+height: 50px;
+}
+.icon2{
+  color: aliceblue;
+  font-size: 230%;
+  background-color: rgb(255, 208, 67);
+  display: inline-block;
+  width: 65px;
+  height: 50px;
+  }
+  .icon3{
+    color: aliceblue;
+    font-size: 230%;
+    background-color: rgb(255, 208, 67);
+    display: inline-block;
+    width: 65px;
+    height: 50px;
+    
+    }
